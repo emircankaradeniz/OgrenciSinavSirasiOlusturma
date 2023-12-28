@@ -1,0 +1,11 @@
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\bin\Debug\YazilimMuhOdev-2.exe.config
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\bin\Debug\YazilimMuhOdev-2.exe
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\bin\Debug\YazilimMuhOdev-2.pdb
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev-2.csproj.AssemblyReference.cache
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev_2.Form1.resources
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev_2.Properties.Resources.resources
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev-2.csproj.GenerateResource.cache
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev-2.csproj.CoreCompileInputs.cache
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev-2.exe
+C:\Users\rustl\source\repos\YazilimMuhOdev-2\YazilimMuhOdev-2\obj\Debug\YazilimMuhOdev-2.pdb

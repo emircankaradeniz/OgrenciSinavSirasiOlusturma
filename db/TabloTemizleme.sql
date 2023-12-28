@@ -1,0 +1,13 @@
+truncate table tbl_ders
+truncate table tbl_derslik
+truncate table tbl_DersSinif
+truncate table tbl_Gozetmen
+truncate table tbl_hoca
+truncate table tbl_HocaDers
+truncate table tbl_Ogr
+truncate table tbl_OgrenciDers
+truncate table tbl_siiniftakiOgrenciler
+truncate table tbl_Sinav
+truncate table tbl_SinavDers
+truncate table tbl_sinavSinif
+truncate table tbl_sinif
